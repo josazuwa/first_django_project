@@ -1,4 +1,4 @@
 # first_django_project
-This is my first django project
+This is my submission for the assignment
 
 ![Assignment](Capture.PNG)
